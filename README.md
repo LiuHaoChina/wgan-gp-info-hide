@@ -19,8 +19,9 @@
 + 伪装图像在本工程目录 ./data_guise/img/ 下
 + 目标图像在本工程目录 ./data/img/ 下
 
-![图像A](./data/img/lena_gray.jpg)
-![图像B](./data_guise/img/target_gray.jpg)
+![图像A](./data_guise/img/target_gray.jpg)
+![图像B](./data/img/lena_gray.jpg)
+
 
 # 实验运行
 - 主要代码为WGAN-GP.py文件，文件可直接运行。
