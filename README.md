@@ -19,8 +19,8 @@
 + 伪装图像在本工程目录 ./data_guise/img/ 下
 + 目标图像在本工程目录 ./data/img/ 下
 
-![图像A](http://imgcdn.infoshare.fun/target_gray.jpg)
-![图像B](http://imgcdn.infoshare.fun/lena_gray.jpg)
+![伪装图像，图像A](http://imgcdn.infoshare.fun/target_gray.jpg)
+![目标图像，图像B](http://imgcdn.infoshare.fun/lena_gray.jpg)
 
 
 # 实验运行
