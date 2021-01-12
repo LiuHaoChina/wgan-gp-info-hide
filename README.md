@@ -18,6 +18,7 @@
 # 测试数据
 + 伪装图像在本工程目录 ./data_guise/img/ 下
 + 目标图像在本工程目录 ./data/img/ 下
+
 ![图像A](./data/img/lena_gray.jpg)
 ![图像B](./data_guise/img/target_gray.jpg)
 
